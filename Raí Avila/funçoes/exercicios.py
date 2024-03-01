@@ -1,7 +1,7 @@
 """
 Exercicio Aula 2
 1/03/2024
-Faça um programa que peça as três notas da disciplina (AP1, AP2 e AC) e mostre a média. 
+Faça um programa que peça as três notas da disciplina (AP1, AP2 e AC) e mostre a média.
 
 """
 
@@ -30,3 +30,5 @@ comprimento_metros = float(input("Digite o comprimento em metros: "))
 comprimento_centimetros = metros_para_centimetros(comprimento_metros)
 
 print(f"{comprimento_metros} metros é igual a {comprimento_centimetros} centímetros.")
+
+#comentário

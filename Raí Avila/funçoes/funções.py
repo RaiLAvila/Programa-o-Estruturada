@@ -35,3 +35,17 @@ def cabecalho(título,sep, tamanho):
 
 cabecalho("Relatorio de despesas", "=", 30)
 cabecalho("Folha de pagamento", "=", 20)
+
+def soma(a,b):
+    return a + b
+
+print(soma(2, 5) + soma(4, 9))
+
+#Verificar se o numero é par ou impar
+x= 2
+print(x % 2 == 0)
+def e_par(num):
+    return num % 2 == 0
+
+print(e_par(8))
+print(e_par(9))
